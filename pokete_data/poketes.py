@@ -179,6 +179,29 @@ pokes = {
     \|/""",
             "esc": None}],
     },
+    "guy": {
+        "name": "??? Mr. Guy ???",
+        "hp": 1,
+        "atc": 1,
+        "defense": 50,
+        "attacks": ["cry", "bite", "snooze"],
+        "pool": [],
+        "miss_chance": 0,
+        "desc": "Just a chilling guy who doesnt want to cause any harm.",
+        "lose_xp": 0.1,
+        "rarity": 1,
+        "types": ["undead"],
+        "evolve_poke": "",
+        "evolve_lvl": 0,
+        "initiative": 1,
+        "ico": [{
+            "txt": r"""
+     O  
+    /|\ 
+     |  
+    / \ """,
+            "esc": None}],
+    },
     "wheeto": {
         "name": "Wheeto",
         "hp": 20,
